@@ -142,6 +142,7 @@ header nav button{
     height: 400px;
     border-radius: 50%;
     animation: bounceIn 1.5s ease-out;
+    object-fit: cover;
 }
 
 #hero .btn {
